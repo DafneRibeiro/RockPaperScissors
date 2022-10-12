@@ -1,12 +1,7 @@
 # RPS Challenge
 
 Instructions
--------
 
-* Feel free to use google, your notes, books, etc. but work on your own
-* If you refer to the solution of another coach or trainee, please put a link to that in your README
-* If you have a partial solution, **still check in a partial solution**
-* You must submit a pull request to this repo with your code by 9:30am Monday morning
 
 Task
 ----
@@ -72,9 +67,7 @@ To install and run this project on your machine, please follow these steps:
 
 ## Logic
 I started installing express and ejs
-
-I tried again testing from the beggining , but I had so much errors, and as I was falling behind I focused on finishing the challenge.
-
+I used Ed's video lessons to create the routes and build the game.
 I kept everything simple, i didnt want to overthink all too much, so on my domain modeling I knew I needed 2 classes. 
 
 
@@ -85,17 +78,22 @@ I kept everything simple, i didnt want to overthink all too much, so on my domai
 | Computer | name     | computer.name  | @string |
 |          | choice   | computerChoice |         |
 
-I followed Ed's Battle project as a sort of a guide.
 
-I didnt style it although I tried, but not sure how to as I am not familiar with ejs 
-
-I redid my if statement as I wasnt getting my result to display on the ejs file, and I managed to make it display
-
-
-
+As per Ed's suggestion not to focus on styling I followed his suggestion and focus on developing it.
 
 ### TO PLAY
 For the game, You need to enter your name, and submit. You will be redirected to the choices page, once you pick your choice the game redirects you to the results page.
+
+
+Built with
+-------
+
+* NodeJs 
+* ExpressJs
+* ejs
+
+Known Issues
+----
 I tried working on my routes to play again without having to go back to home page, but I kept getting and error for it. 
-
-
+My tests were all failing and I would like to go back to it to revisit and working on testing it better
+As styling wasnt the main focus I would also like to revisit and style it 
