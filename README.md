@@ -8,11 +8,6 @@ Task
 
 The DFA team ( **DFAT** ) have asked you to provide a game for them. The daily grind is pretty tough and they need time to have a little fun.
 
-As usual please start by
-
-* Forking this repo
-* TEST driving development of your app
-
 Your task is to provide a _Rock, Paper, Scissors_ game for them so they can play on the web with the following user stories:
 
 ### Acceptance Criteria
