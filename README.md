@@ -89,6 +89,6 @@ Built with
 
 Known Issues
 ----
-I tried working on my routes to play again without having to go back to home page, but I kept getting and error for it. 
-My tests were all failing and I would like to go back to it to revisit and working on testing it better
-As styling wasnt the main focus I would also like to revisit and style it 
+* I tried working on my routes to play again without having to go back to home page, but I kept getting and error for it. 
+* My tests were all failing and I would like to go back to it to revisit and working on testing it better
+* As styling wasnt the main focus I would also like to revisit and style it 
